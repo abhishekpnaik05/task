@@ -11,7 +11,6 @@ const About = () => {
   }
   useEffect(()=>{
     console.log("1st api");
-    
 },[edit])
 
   return (
