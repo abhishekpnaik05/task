@@ -8,7 +8,6 @@ const About = () => {
   const handleEdit =  ()=>{
     console.log("api call");
     setEdit("res")
-    
   }
   useEffect(()=>{
     console.log("1st api");
