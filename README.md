@@ -69,7 +69,7 @@ task-tracker/
 
 ## 📸 Screenshots
 
-> ![Task Tracker](<Screenshot from 2025-04-05 14-57-38.png>)
+![Task Tracker](screenshot.png)
 
 
 
