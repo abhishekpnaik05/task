@@ -4,6 +4,7 @@ import Footer from './Footer'
 import Tasks from './Tasks'
 import AddTasks from './AddTasks'
 
+
 import React from 'react'
 
 const Home = () => {
@@ -55,6 +56,7 @@ tasks.map((task) => task.id === id ? { ...task,reminder: !task.reminder } : task
     {showAddTasks && <AddTasks onAdd={addTask}/>}
     {tasks.length > 0 ? (<Tasks tasks={tasks} onDelete={deleteTask} onToggle={toggleReminder} />
     ) : ('No Tasks To Show')}
+    
    <Footer />
    </div>
   )
