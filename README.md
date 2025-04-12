@@ -69,7 +69,7 @@ task-tracker/
 
 ## 📸 Screenshots
 
-<!-- ![Task Tracker](screenshot.png) -->
+![Task Tracker](screenshot.png)
 
 
 
